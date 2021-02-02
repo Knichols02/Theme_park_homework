@@ -27,4 +27,9 @@ public class PlaygroundTest {
     public void hasVisitCount() {
         assertEquals(0, playground.getVisitCount());
     }
+
+//    @Test
+//    public void isAllowedToVisit(){
+//        assertEquals(true, playground.isAllowedTo());
+//    }
 }
